@@ -1,4 +1,6 @@
 - distractions
 - making the same mistakes
 - bad concentration
-- 
+- 6th grade full in depth study
+- practice more
+- use a pomodoro timer
