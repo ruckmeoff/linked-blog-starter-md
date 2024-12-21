@@ -1,0 +1,1 @@
+Status Flags. The status flags **reflect the outcomes of arithmetic and logical operations performed by the CPU**. • The carry flag (CF-CY) is set when the result of an unsigned arithmetic operation is too large to fit into the destination.
