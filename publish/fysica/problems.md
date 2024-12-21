@@ -4,3 +4,4 @@
 - 6th grade full in depth study
 - practice more
 - use a pomodoro timer
+- 
