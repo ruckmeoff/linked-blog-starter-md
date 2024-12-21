@@ -1,0 +1,1 @@
+Each computer architecture has its own assembly language. A “stack” is **a description for a data-structure in which one adds new values to one end, and removes values from that same end**. Stacks may grow up (adding data increments the stack pointer) or grow down (adding data decrements the stack pointer).12 aug 2022
