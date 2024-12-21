@@ -1,0 +1,1 @@
+An operand is a term used in computing, programming, and mathematics to refer to **a value or expression that is used to perform an operation**. In other words, it is any object or data that is manipulated by an operator.

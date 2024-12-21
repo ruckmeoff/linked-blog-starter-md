@@ -1,0 +1,1 @@
+In computer science, an address typically refers to **a location in memory or storage where data or instructions can be stored or retrieved**. There are different types of addresses: Memory Address: Most common type of address.11 sep 2023

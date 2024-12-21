@@ -1,0 +1,1 @@
+What is an accumulator in the context of computing and programming? In computing, an accumulator is a register, or **a memory location used to store the intermediate results of arithmetic and logical operations**. It plays a crucial role in performing calculations and processing data in various applications.
