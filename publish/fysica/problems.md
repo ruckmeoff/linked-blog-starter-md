@@ -1,0 +1,2 @@
+- disctractions
+- making the same mi
