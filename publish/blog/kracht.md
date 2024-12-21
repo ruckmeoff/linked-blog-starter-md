@@ -1,0 +1,1 @@
+Kracht is een fysieke grootheid die een voorwerp kan laten versnellen, vertragen, van
