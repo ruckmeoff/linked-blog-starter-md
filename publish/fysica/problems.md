@@ -1,2 +1,4 @@
-- disctractions
-- making the same mi
+- distractions
+- making the same mistakes
+- bad concentration
+- 
