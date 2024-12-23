@@ -1,0 +1,9 @@
+- Arbeid Energie Vermogen 
+	- Zwaartekrachtcomponenten
+		- $F$<sub>z, parallel</sub> = $F$<sub>z</sub> . sin($\alpha$)
+	- Normaal kracht
+		- Fz,normaal = Fz . cos($\alpha$)
+	- Wrijvingskracht
+		- $F$<sub>W</sub> = $\micro$ . $F$<sub>z, normaal</sub> 
+			- $\micro$ = wrijvingscoëfficiënt
+	- 
